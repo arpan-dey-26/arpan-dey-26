@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **ccmmnn2019@gmail.com** For Collaboration/Project or Anyth
 - ⚡ **Fun fact:** I enjoy turning ideas into real-world software and believe learning never stops.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dey._.arpan
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dey._.arpan)
 
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ccmmnn2019@gmail.com) 
 
